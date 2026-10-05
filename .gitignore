@@ -1,0 +1,4 @@
+*.log
+!important.log
+*.env
+.env
