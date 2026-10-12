@@ -20,3 +20,4 @@ including commits, branches, merging, remote repositories, and synchronization.
 git status
 git add README.md
 git commit -m "Update project README"
+This repository demonstrates Git fundamentals.
