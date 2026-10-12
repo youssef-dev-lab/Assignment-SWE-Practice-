@@ -24,3 +24,5 @@ git commit -m "Update project README"
 
 ## Useful Link
 [Git Documentation](https://git-scm.com/doc)
+
+This change was made directly on GitHub to demonstrate fetch and pull.
