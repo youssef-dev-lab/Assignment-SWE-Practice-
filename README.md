@@ -1,13 +1,13 @@
-cat > README.md <<'EOF'
 # Git & GitHub Fundamentals
+
+![Project Banner](assets/project-banner.svg)
 
 ## Student Information
 - **Name:** Mohammed Youssef Chafiki
 - **GitHub:** [youssef-dev-lab](https://github.com/youssef-dev-lab)
 
 ## Project Description
-This project demonstrates the fundamental Git and GitHub workflow,
-including commits, branches, merging, remote repositories, and synchronization.
+This project demonstrates Git and GitHub fundamentals, including commits, branches, merging, and synchronization.
 
 ## Technologies
 - Git
@@ -20,6 +20,7 @@ including commits, branches, merging, remote repositories, and synchronization.
 git status
 git add README.md
 git commit -m "Update project README"
-This repository demonstrates Git fundamentals.
-Temporary unstaged change for the lab.
-This change was made directly on GitHub to demonstrate fetch and pull.
+```
+
+## Useful Link
+[Git Documentation](https://git-scm.com/doc)
