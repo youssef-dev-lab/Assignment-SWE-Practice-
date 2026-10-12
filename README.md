@@ -22,3 +22,4 @@ git add README.md
 git commit -m "Update project README"
 This repository demonstrates Git fundamentals.
 Temporary unstaged change for the lab.
+This change was made directly on GitHub to demonstrate fetch and pull.
