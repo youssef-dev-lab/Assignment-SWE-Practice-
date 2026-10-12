@@ -11,3 +11,5 @@ This project was created as part of the Git & GitHub Fundamentals lab.
 Mohammed Youssef Chafiki
 
 GitHub: https://github.com/youssef-dev-lab
+
+Additional Git practice completed.
